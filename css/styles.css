@@ -11,7 +11,9 @@ h1 {
 h2 {
   font-family: 'Zen Dots', cursive;
 }
-
+h3 {
+  font-family: 'Zen Dots', cursive;
+}
 .top {
   background-color: #325288;
   position: relative;
