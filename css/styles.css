@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'arial', sans-serif;
+}
+
+h1 {
+  font-family: 'Zen Dots', cursive;
+}
+
+h2 {
+  font-family: 'Zen Dots', cursive;
+}
+
+.top {
+  background-color: #325288;
+  position: relative;
+  padding-top: 60px;
+}
+
+.middle {
+  background-color: #f4eee8;
+}
+
+.bottom {
+  background-color: #f5cebe;
+}
+
+.pro {
+  color: red;
+  font-size: 30px;
+}
+
+.title {
+  text-decoration: underline;
+  font-size: 24px;
+}
+
+.bCloud {
+  position: absolute;
+  top: 250px;
+  left: 350px;
+}
+
+.tCloud {
+  position: absolute;
+  top: 40px;
+  left: 900px;
+}
+
+.profile-pic {
+  object-fit: cover;
+  border-radius: 60%;
+  height: 250px;
+  width: 220px;
+}
